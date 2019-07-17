@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FruitUser</string>
+    <string name="UsernameHint">Username</string>
+    <string name="PasswordHint">Password(Min 6 char)</string>
+
+    <string name="FirstNameHint"><font size="15">First Name</font></string>
+    <string name="LastNameHint"><font size="15">Last Name</font></string>
+    <string name="EmailHint"><font size="15">Email</font></string>
+    <string name="MobileNoHint"><font size="15">Mobile No</font></string>
+
+    <string name="ForgotNewPassword"><font size="20">New Password(Min6char)</font></string>
+    <string name="ForgotConfirmPassword"><font size="15">Confirm Password</font></string>
+    <string name="title_activity_nav_drawer">nav_drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+</resources>
